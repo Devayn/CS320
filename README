@@ -1,0 +1,4 @@
+Ensuring code is functional and secure can be done by appropriately parameterizing code, implementation of JUnit test cases, certification writing, and refactoring code
+as deemed necessary by dependency check reports (verifying vulnerabilities and accounting for them with an appropriate cipher.)  User Needs
+can be found appropriately through doing UML diagrams and appropriately planning with pseudocode/flowcharts.  Software design can then be designed
+while taking into account user needs and possibilities through use cases.
